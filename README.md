@@ -91,4 +91,4 @@ In your project notes, answer the following:
 If AI gets "confused" (e.g., it thinks a pen is a bottle), you need to **add more data.** This is a great way to explain that AI is only as good as the information we give it.
 
 
-**Would you like me to show you how to host this as a live "Web Page" using GitHub Pages so it looks like a real app?**
+
