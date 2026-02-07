@@ -8,7 +8,7 @@ I used **Teachable Machine** to train a custom image classification model. The g
 ### 🚀 Try It Live!
 
 You can test this model yourself using your own webcam. No setup required:
-👉 **[[Paste your Teachable Machine Share Link Here]](https://teachablemachine.withgoogle.com/models/qlqjwznH-/)**
+👉 **[[Here]](https://teachablemachine.withgoogle.com/models/qlqjwznH-/)**
 
 
 
