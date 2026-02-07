@@ -39,10 +39,10 @@ I trained the AI using four distinct classes:
 ## 📝 Reflection
 
 Supervised Learning 
-This project uses Supervised Learning because I provided "labeled data" (the names for each category) to the model. The AI learned by associating the visual patterns from the webcam with the specific labels I created
+* This project uses Supervised Learning because I provided "labeled data" (the names for each category) to the model. The AI learned by associating the visual patterns from the webcam with the specific labels I created
 
-Want to play with Unsupervised learning? 
-Check here :  **[Unsupervised Learning](http://alekseynp.com/viz/k-means.html)** 
+*Want to play with Unsupervised learning? 
+* Check here :  **[Unsupervised Learning](http://alekseynp.com/viz/k-means.html)** 
 
 ## Your Task 
  **"Mini-AI Portfolio Challenge."** 
