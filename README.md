@@ -14,7 +14,7 @@ You can test this model yourself using your own webcam. No setup required:
 
 ## 📸 Proof of Concept
 
-Here is a screenshot of the AI identifying me with high confidence:
+Here are screenshot of the AI identifying me with high confidence:
 
 <img width="459" height="657" alt="Screenshot 2026-02-07 213042" src="https://github.com/user-attachments/assets/bf2af803-ee23-4a57-a9db-90889125b856" />
 <img width="365" height="602" alt="Screenshot 2026-02-07 213136" src="https://github.com/user-attachments/assets/4397579c-a9d2-493c-9b9e-e4ba0449763b" />
