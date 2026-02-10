@@ -1,4 +1,4 @@
-Note : Students to please use Gmail ID' for creation of Github account. Procedure for making a github account is mentioned **[[Here]](https://www.youtube.com/watch?v=Gn3w1UvTx0A)**
+Note : Students to please use Gmail ID for creation of Github account. Procedure for making a github account is mentioned **[[Here]](https://www.youtube.com/watch?v=Gn3w1UvTx0A)**
 # 🤖 My Personal AI Object Detector
 
 ## 🌟 Project Overview
