@@ -1,4 +1,4 @@
-
+Note : Students to please use Gmail ID' for creation of Github account. Procedure for making a github account is mentioned **[[Here]](https://teachablemachine.withgoogle.com/models/qlqjwznH-/)**
 # 🤖 My Personal AI Object Detector
 
 ## 🌟 Project Overview
